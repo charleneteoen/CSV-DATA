@@ -1,0 +1,81 @@
+time,branch,alert_type,severity,amount,case_id
+2025-09-01T06:43:00Z,Chinatown,mule_account,Low,114.42,FR-0343
+2025-09-01T06:47:00Z,Marina Bay,geolocation_mismatch,High,238.83,FR-0347
+2025-09-01T05:43:00Z,Chinatown,velocity,Low,141.44,FR-0283
+2025-09-01T05:32:00Z,Jurong East,geolocation_mismatch,Low,80.17,FR-0272
+2025-09-01T07:58:00Z,Tampines,velocity,Low,74.65,FR-0418
+2025-09-01T03:23:00Z,Downtown,blacklist_card,Low,74.18,FR-0143
+2025-09-01T05:31:00Z,Orchard,velocity,High,100.81,FR-0271
+2025-09-01T09:49:00Z,Chinatown,device_fingerprint,High,273.15,FR-0529
+2025-09-01T06:19:00Z,Jurong East,velocity,Low,177.91,FR-0319
+2025-09-01T03:43:00Z,Tampines,blacklist_card,High,114.38,FR-0163
+2025-09-01T09:06:00Z,Novena,geolocation_mismatch,Low,101.29,FR-0486
+2025-09-01T01:01:00Z,Marina Bay,mule_account,Medium,203.0,FR-0001
+2025-09-01T06:59:00Z,Downtown,device_fingerprint,Low,83.03,FR-0359
+2025-09-01T09:08:00Z,Novena,velocity,Medium,383.34,FR-0488
+2025-09-01T01:52:00Z,Jurong East,blacklist_card,Medium,151.44,FR-0052
+2025-09-01T08:38:00Z,Orchard,velocity,Medium,58.48,FR-0458
+2025-09-01T03:05:00Z,Marina Bay,geolocation_mismatch,Medium,90.77,FR-0125
+2025-09-01T06:37:00Z,Tampines,geolocation_mismatch,Low,313.68,FR-0337
+2025-09-01T04:21:00Z,Marina Bay,velocity,Low,58.6,FR-0201
+2025-09-01T01:15:00Z,Novena,velocity,Medium,256.66,FR-0015
+2025-09-01T01:34:00Z,Novena,blacklist_card,Low,110.09,FR-0034
+2025-09-01T08:40:00Z,Hougang,blacklist_card,Low,106.51,FR-0460
+2025-09-01T09:47:00Z,Paya Lebar,blacklist_card,Low,358.27,FR-0527
+2025-09-01T07:11:00Z,Marina Bay,mule_account,Medium,67.43,FR-0371
+2025-09-01T06:01:00Z,Hougang,velocity,Medium,274.57,FR-0301
+2025-09-01T05:47:00Z,Novena,geolocation_mismatch,Low,173.53,FR-0287
+2025-09-01T07:00:00Z,Chinatown,velocity,Medium,70.1,FR-0360
+2025-09-01T09:16:00Z,Novena,geolocation_mismatch,Low,673.34,FR-0496
+2025-09-01T07:28:00Z,Marina Bay,mule_account,Medium,148.58,FR-0388
+2025-09-01T06:32:00Z,Tampines,velocity,Medium,186.79,FR-0332
+2025-09-01T05:07:00Z,Marina Bay,velocity,Low,621.64,FR-0247
+2025-09-01T05:36:00Z,Marina Bay,blacklist_card,Low,253.38,FR-0276
+2025-09-01T02:09:00Z,Woodlands,device_fingerprint,Low,177.97,FR-0069
+2025-09-01T02:05:00Z,Jurong East,velocity,Low,293.24,FR-0065
+2025-09-01T05:16:00Z,Woodlands,geolocation_mismatch,High,577.89,FR-0256
+2025-09-01T06:54:00Z,Novena,geolocation_mismatch,Low,135.46,FR-0354
+2025-09-01T01:21:00Z,Marina Bay,velocity,Low,357.76,FR-0021
+2025-09-01T02:34:00Z,Jurong East,blacklist_card,Low,94.44,FR-0094
+2025-09-01T07:44:00Z,Woodlands,geolocation_mismatch,Low,191.98,FR-0404
+2025-09-01T04:58:00Z,Marina Bay,velocity,Low,133.13,FR-0238
+2025-09-01T01:09:00Z,Orchard,device_fingerprint,Medium,125.69,FR-0009
+2025-09-01T04:14:00Z,Woodlands,velocity,Low,249.37,FR-0194
+2025-09-01T02:06:00Z,Jurong East,blacklist_card,Low,45.66,FR-0066
+2025-09-01T06:58:00Z,Woodlands,device_fingerprint,Low,157.61,FR-0358
+2025-09-01T06:26:00Z,Paya Lebar,geolocation_mismatch,Medium,99.06,FR-0326
+2025-09-01T04:41:00Z,Paya Lebar,velocity,Low,106.58,FR-0221
+2025-09-01T07:16:00Z,Novena,blacklist_card,Low,545.44,FR-0376
+2025-09-01T06:48:00Z,Orchard,blacklist_card,Medium,129.49,FR-0348
+2025-09-01T04:24:00Z,Tampines,velocity,Medium,154.11,FR-0204
+2025-09-01T01:39:00Z,Tampines,velocity,Low,299.38,FR-0039
+2025-09-01T07:32:00Z,Jurong East,device_fingerprint,Low,121.05,FR-0392
+2025-09-01T09:53:00Z,Chinatown,velocity,Low,299.06,FR-0533
+2025-09-01T02:59:00Z,Tampines,velocity,Medium,149.83,FR-0119
+2025-09-01T07:53:00Z,Jurong East,blacklist_card,Low,311.06,FR-0413
+2025-09-01T01:44:00Z,Orchard,device_fingerprint,High,110.52,FR-0044
+2025-09-01T07:01:00Z,Chinatown,mule_account,High,464.48,FR-0361
+2025-09-01T02:14:00Z,Chinatown,geolocation_mismatch,Medium,98.47,FR-0074
+2025-09-01T06:39:00Z,Paya Lebar,velocity,Medium,295.12,FR-0339
+2025-09-01T09:59:00Z,Novena,velocity,Low,146.17,FR-0539
+2025-09-01T08:01:00Z,Marina Bay,velocity,Low,138.4,FR-0421
+2025-09-01T02:12:00Z,Chinatown,device_fingerprint,Low,191.95,FR-0072
+2025-09-01T08:50:00Z,Downtown,velocity,Medium,302.32,FR-0470
+2025-09-01T06:45:00Z,Jurong East,velocity,Medium,115.18,FR-0345
+2025-09-01T04:08:00Z,Chinatown,blacklist_card,Low,56.73,FR-0188
+2025-09-01T04:40:00Z,Chinatown,velocity,Medium,67.13,FR-0220
+2025-09-01T08:07:00Z,Hougang,geolocation_mismatch,Low,218.53,FR-0427
+2025-09-01T03:10:00Z,Downtown,blacklist_card,Medium,63.32,FR-0130
+2025-09-01T01:13:00Z,Hougang,velocity,Low,152.46,FR-0013
+2025-09-01T08:19:00Z,Chinatown,geolocation_mismatch,Medium,171.02,FR-0439
+2025-09-01T01:19:00Z,Marina Bay,blacklist_card,Low,349.89,FR-0019
+2025-09-01T09:41:00Z,Downtown,blacklist_card,Low,306.2,FR-0521
+2025-09-01T05:41:00Z,Paya Lebar,velocity,Medium,245.68,FR-0281
+2025-09-01T01:14:00Z,Woodlands,velocity,Low,120.46,FR-0014
+2025-09-01T04:09:00Z,Chinatown,geolocation_mismatch,High,142.65,FR-0189
+2025-09-01T02:22:00Z,Chinatown,velocity,Low,160.49,FR-0082
+2025-09-01T09:42:00Z,Novena,blacklist_card,High,76.49,FR-0522
+2025-09-01T01:10:00Z,Novena,velocity,Medium,113.33,FR-0010
+2025-09-01T07:08:00Z,Hougang,device_fingerprint,Low,231.42,FR-0368
+2025-09-01T03:40:00Z,Jurong East,velocity,Low,202.6,FR-0160
+2025-09-01T05:18:00Z,Marina Bay,geolocation_mismatch,Low,142.54,FR-0258
